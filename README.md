@@ -22,7 +22,7 @@ custom KeyBind list colored/fade/skeet
 
 --------RageBot--------
 
-Better DT
+Better DT Recharge
 
 base resolve enhancement 
 
