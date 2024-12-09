@@ -1,0 +1,4 @@
+path : D or C:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo
+Copy the files to the "csgo" folder.
+Open The Game
+Type in the console: "snd_updateaudiocache"
